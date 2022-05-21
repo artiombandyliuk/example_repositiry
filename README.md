@@ -1,1 +1,1 @@
-# example_repositiry
+# example_repository
